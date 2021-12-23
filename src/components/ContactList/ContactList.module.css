@@ -1,0 +1,19 @@
+li {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+p {
+  padding: 0;
+  margin: 0;
+  margin-right: 20px;
+  font-weight: 500;
+}
+span {
+  font-weight: 400;
+}
+
+.nameBox {
+  display: flex;
+  justify-content: center;
+}
